@@ -1,0 +1,14 @@
+form {
+    border: 1px solid #88D5E9;
+    font: 13px "Lucida Sans Unicode", sans-serif;
+}
+input, textarea, select {
+    box-sizing: border-box;
+    border: 1px solid #BEBEBE;
+}
+label{
+    font-weight: bold;
+}
+strong{
+    color:red;
+}

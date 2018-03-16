@@ -1,0 +1,19 @@
+body{
+    background-image: url(img/congruent_pentagon.png);
+}
+div{
+    background: lightsteelblue;
+    position: relative;
+    width: 70%;
+    height: 300px;
+}
+div p{
+    position: absolute;
+    width: 100%;
+    height: 90%;
+}
+div h1{
+    position: absolute;
+    width: 100%;
+    height: 10%;
+}
